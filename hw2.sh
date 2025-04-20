@@ -1,6 +1,6 @@
 
 # change the following according to your student numbers
-echo "1007103,1006633, 1007150"
+echo "1007103,1006633,1007150"
 
 # change the following according to your environment
 hdfs_namenode="localhost"
